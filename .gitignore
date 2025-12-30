@@ -1,0 +1,3 @@
+apps/ingestor/target
+**/node_modules
+*.swp
